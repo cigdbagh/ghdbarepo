@@ -1,3 +1,3 @@
 # ghdbarepo
 
-Github dba repository master branch.
+Github dba repository.
