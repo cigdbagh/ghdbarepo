@@ -1,2 +1,2 @@
 # ghdbarepo
-Read me file for master branch.
+Read me file.
